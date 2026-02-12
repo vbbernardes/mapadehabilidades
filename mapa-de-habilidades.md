@@ -32,4 +32,34 @@
 
 ---
 
-## Etapa
+## Etapa 2 – Cruzamento com Necessidades do Mercado
+- **Organização e responsabilidade** → Muito valorizadas em empresas e projetos.  
+- **Boa escrita** → Essencial para criação de conteúdo digital, relatórios e copywriting.  
+- **Organização financeira básica** → Demanda em famílias e pequenos negócios.  
+- **Execução de tarefas práticas** → Serviços locais como decoração e produção de doces têm alta procura.  
+- **Produção de conteúdo para afiliados** → Alta demanda em marketing digital e e-commerce.  
+- **Estudo e análise individual** → Valorizado em pesquisa, relatórios e análise de dados.  
+
+---
+
+## Etapa 3 – Caminhos de Monetização
+1. **Marketing de afiliados**  
+   - Continuar criando conteúdo para plataformas de marketplace.  
+   - Expandir para redes sociais com dicas e reviews de produtos.  
+
+2. **Serviços em plataformas**  
+   - Oferecer redação de textos e copywriting em Workana, 99Freelas e Fiverr.  
+   - Consultoria em organização financeira básica.  
+
+3. **Portfólio digital**  
+   - GitHub com exemplos de planilhas, relatórios e textos.  
+   - Blog ou perfil mostrando campanhas e resultados como afiliada.  
+
+4. **Parcerias locais e digitais**  
+   - Apoiar pequenos negócios com divulgação de produtos e serviços.  
+   - Colaborar com outros afiliados ou influenciadores.  
+
+5. **Mentoria e aulas**  
+   - Ensinar iniciantes a começar no marketing de afiliados.  
+   - Produzir cursos básicos sobre escrita persuasiva e organização financeira.  
+   - Oficinas práticas de organização de eventos e tarefas domésticas.  
