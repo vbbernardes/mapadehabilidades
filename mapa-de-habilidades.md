@@ -1,4 +1,4 @@
-# Mapa de Habilidades – Neusa
+# Mapa de Habilidades – Vanessa
 
 ## Etapa 1 – Inventário de Habilidades
 **Habilidades técnicas**  
