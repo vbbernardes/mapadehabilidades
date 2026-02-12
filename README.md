@@ -7,3 +7,4 @@ Aqui você encontra meu **Mapa de Habilidades** completo, dividido em três etap
 3. Caminhos de Monetização  
 
 📌 Objetivo: organizar minhas competências e explorar formas de aplicá-las no mercado.  
+📂 [Mapa de Habilidades completo](mapa-de-habilidades.md)
