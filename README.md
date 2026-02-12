@@ -1,10 +1,14 @@
-# Mapa de Habilidades – Vanessa
+# 🗂️ Mapa de Habilidades – Vanessa
 
 Este repositório foi criado para a atividade da DIO sobre identificação e monetização de habilidades.  
-Aqui você encontra meu **Mapa de Habilidades** completo, dividido em três etapas:  
-1. Inventário de Habilidades  
-2. Cruzamento com Necessidades do Mercado  
-3. Caminhos de Monetização  
+Aqui você encontra meu Mapa de Habilidades completo, dividido em três etapas:
 
-📌 Objetivo: organizar minhas competências e explorar formas de aplicá-las no mercado.  
-📂 [Mapa de Habilidades completo](mapa-de-habilidades.md)
+## 📂 Conteúdo
+- [Inventário de Habilidades](mapa-de-habilidades.md#inventário-de-habilidades)
+- [Cruzamento com Necessidades do Mercado](mapa-de-habilidades.md#cruzamento-com-necessidades-do-mercado)
+- [Caminhos de Monetização](mapa-de-habilidades.md#caminhos-de-monetização)
+
+## 🎯 Objetivo
+Organizar minhas competências e explorar formas de aplicá-las no mercado.
+
+
